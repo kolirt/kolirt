@@ -31,3 +31,7 @@
   <a href="https://github.com/kolirt/vite-plugin-robots" target="_blank">vite-plugin-robots</a>
   - plugin for Vite to generating robots.txt for production and development builds.
 </p>
+
+<p>
+  [IN PROGRESS] <a href="[kolirt/laravel-telegram](https://github.com/kolirt/laravel-telegram)">kolirt/laravel-telegram</a> - telegram bot framework for Laravel.
+</p>
