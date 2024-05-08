@@ -33,5 +33,5 @@
 </p>
 
 <p>
-  [IN PROGRESS] <a href="[kolirt/laravel-telegram](https://github.com/kolirt/laravel-telegram)">kolirt/laravel-telegram</a> - telegram bot framework for Laravel.
+  [IN PROGRESS] <a href="https://github.com/kolirt/laravel-telegram">kolirt/laravel-telegram</a> - telegram bot framework for Laravel.
 </p>
