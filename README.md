@@ -15,7 +15,7 @@
   <img src="https://camo.githubusercontent.com/435a4bf55fccd95a702a7fa4af1281f395d1814969d80e79a2706f92ee81898c/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f617269616c2d79656c6c6f772e706e67" alt="Buy Me A Coffee" style="height: 60px; width: 217px; max-width: 100%;" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png">
 </a>
 
-##### My Open-source Projects
+##### My Open-source Packages
 
 <p>
   <a href="https://github.com/kolirt/vue-web3-auth" target="_blank">@kolirt/vue-web3-auth</a> 
