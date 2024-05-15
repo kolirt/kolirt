@@ -28,6 +28,11 @@
 </p>
 
 <p>
+  <a href="https://github.com/kolirt/vue-timestamp" target="_blank">@kolirt/vue-timestamp</a>
+  - Vue 3 timestamp package.
+</p>
+
+<p>
   <a href="https://github.com/kolirt/vite-plugin-robots" target="_blank">vite-plugin-robots</a>
   - plugin for Vite to generating robots.txt for production and development builds.
 </p>
