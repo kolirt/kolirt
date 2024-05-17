@@ -33,6 +33,11 @@
 </p>
 
 <p>
+  <a href="https://github.com/kolirt/vue-telegram-mini-app" target="_blank">@kolirt/vue-telegram-mini-app</a>
+  - Vue 3 telegram mini app package.
+</p>
+
+<p>
   <a href="https://github.com/kolirt/vite-plugin-robots" target="_blank">vite-plugin-robots</a>
   - plugin for Vite to generating robots.txt for production and development builds.
 </p>
