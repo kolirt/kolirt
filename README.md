@@ -2,7 +2,6 @@
 
 
 ##### Your Support
-
 <p>⭐️ The easiest way to support me is by giving a star on Github.</p>
 
 <p>🔧 You can help me to add new features or fixing bugs on Github.</p>
@@ -15,8 +14,10 @@
   <img src="https://camo.githubusercontent.com/435a4bf55fccd95a702a7fa4af1281f395d1814969d80e79a2706f92ee81898c/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f617269616c2d79656c6c6f772e706e67" alt="Buy Me A Coffee" style="height: 60px; width: 217px; max-width: 100%;" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png">
 </a>
 
+
 ##### My Open-source Packages
 
+###### Vue
 <p>
   <a href="https://github.com/kolirt/vue-web3-auth" target="_blank">@kolirt/vue-web3-auth</a> 
   - simple WalletConnect v2 integration package for Vue3 apps.
@@ -37,9 +38,17 @@
   - Vue 3 telegram mini app package.
 </p>
 
+
+###### Vite
 <p>
   <a href="https://github.com/kolirt/vite-plugin-robots" target="_blank">vite-plugin-robots</a>
   - plugin for Vite to generating robots.txt for production and development builds.
+</p>
+
+
+###### Laravel
+<p>
+  <a href="https://github.com/kolirt/laravel-settings">kolirt/laravel-settings</a> - package for managing settings in a Laravel project.
 </p>
 
 <p>
