@@ -1,7 +1,7 @@
 <p>I'm the creator of open-source packages</p>
 
 
-##### Your Support
+#### Your Support
 <p>⭐️ The easiest way to support me is by giving a star on Github.</p>
 
 <p>🔧 You can help me to add new features or fixing bugs on Github.</p>
@@ -15,9 +15,9 @@
 </a>
 
 
-##### My Open-source Packages
+#### My Open-source Packages
 
-###### Vue
+##### Vue
 <p>
   <a href="https://github.com/kolirt/vue-web3-auth" target="_blank">@kolirt/vue-web3-auth</a> 
   - simple WalletConnect v2 integration package for Vue3 apps.
@@ -39,14 +39,14 @@
 </p>
 
 
-###### Vite
+##### Vite
 <p>
   <a href="https://github.com/kolirt/vite-plugin-robots" target="_blank">vite-plugin-robots</a>
   - plugin for Vite to generating robots.txt for production and development builds.
 </p>
 
 
-###### Laravel
+##### Laravel
 <p>
   <a href="https://github.com/kolirt/laravel-settings">kolirt/laravel-settings</a> - package for managing settings in a Laravel project.
 </p>
