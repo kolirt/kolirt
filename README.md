@@ -56,5 +56,9 @@
 </p>
 
 <p>
+  <a href="https://github.com/kolirt/laravel-sitemap">kolirt/laravel-sitemap</a> - sitemap generator for Laravel projects.
+</p>
+
+<p>
   [IN PROGRESS] <a href="https://github.com/kolirt/laravel-telegram">kolirt/laravel-telegram</a> - telegram bot framework for Laravel.
 </p>
