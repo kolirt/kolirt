@@ -52,5 +52,9 @@
 </p>
 
 <p>
+  <a href="https://github.com/kolirt/laravel-api-response">kolirt/laravel-api-response</a> - unification of API responses for Laravel projects inspired by telegram api responses.
+</p>
+
+<p>
   [IN PROGRESS] <a href="https://github.com/kolirt/laravel-telegram">kolirt/laravel-telegram</a> - telegram bot framework for Laravel.
 </p>
