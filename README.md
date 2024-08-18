@@ -60,5 +60,9 @@
 </p>
 
 <p>
+  [IN PROGRESS] <a href="https://github.com/kolirt/laravel-cacheable">kolirt/laravel-cacheable</a> - 
+</p>
+
+<p>
   [IN PROGRESS] <a href="https://github.com/kolirt/laravel-telegram">kolirt/laravel-telegram</a> - telegram bot framework for Laravel.
 </p>
