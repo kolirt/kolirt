@@ -56,11 +56,11 @@
 </p>
 
 <p>
-  <a href="https://github.com/kolirt/laravel-sitemap">kolirt/laravel-sitemap</a> - sitemap generator for Laravel projects.
+  <a href="https://github.com/kolirt/laravel-cacheable">kolirt/laravel-cacheable</a> - easily cache and control class methods without having to remember cache key names.
 </p>
 
 <p>
-  <a href="https://github.com/kolirt/laravel-cacheable">kolirt/laravel-cacheable</a> - easily cache and control class methods without having to remember cache key names.
+  <a href="https://github.com/kolirt/laravel-sitemap">kolirt/laravel-sitemap</a> - sitemap generator for Laravel projects.
 </p>
 
 <p>
