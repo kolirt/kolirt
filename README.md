@@ -60,7 +60,7 @@
 </p>
 
 <p>
-  [IN PROGRESS] <a href="https://github.com/kolirt/laravel-cacheable">kolirt/laravel-cacheable</a> - 
+  <a href="https://github.com/kolirt/laravel-cacheable">kolirt/laravel-cacheable</a> - easily cache and control class methods without having to remember cache key names.
 </p>
 
 <p>
