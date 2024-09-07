@@ -48,6 +48,10 @@
 
 ##### Laravel
 <p>
+  [IN PROGRESS] <a href="https://github.com/kolirt/laravel-master-model">kolirt/laravel-master-model</a> - simplifies working with models, saving relationships, and uploading files in Laravel.
+</p>
+
+<p>
   <a href="https://github.com/kolirt/laravel-settings">kolirt/laravel-settings</a> - package for managing settings in a Laravel project.
 </p>
 
@@ -61,10 +65,6 @@
 
 <p>
   <a href="https://github.com/kolirt/laravel-sitemap">kolirt/laravel-sitemap</a> - sitemap generator for Laravel projects.
-</p>
-
-<p>
-  [IN PROGRESS] <a href="https://github.com/kolirt/laravel-master-model">kolirt/laravel-master-model</a> - simplifies working with models, saving relationships, and uploading files in Laravel.
 </p>
 
 <p>
