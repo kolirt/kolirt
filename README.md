@@ -64,5 +64,9 @@
 </p>
 
 <p>
+  [IN PROGRESS] <a href="https://github.com/kolirt/laravel-master-model">kolirt/laravel-master-model</a> - simplifies working with models, saving relationships, and uploading files in Laravel.
+</p>
+
+<p>
   [IN PROGRESS] <a href="https://github.com/kolirt/laravel-telegram">kolirt/laravel-telegram</a> - telegram bot framework for Laravel.
 </p>
