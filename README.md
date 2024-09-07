@@ -11,7 +11,7 @@
 <p>☕ Or buy me a <a href="https://www.buymeacoffee.com/kolirt" target="_blank">cup of coffee</a> to help me stay awake while I am coding, spend more time on the projects, and still pay my bills.</p>
 
 <a href="https://www.buymeacoffee.com/kolirt" target="_blank">
-  <img src="https://camo.githubusercontent.com/435a4bf55fccd95a702a7fa4af1281f395d1814969d80e79a2706f92ee81898c/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f617269616c2d79656c6c6f772e706e67" alt="Buy Me A Coffee" style="height: 60px; width: 217px; max-width: 100%;" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
 </a>
 
 
