@@ -29,6 +29,11 @@
 </p>
 
 <p>
+  <a href="https://github.com/kolirt/vue-validation-kit" target="_blank">@kolirt/vue-validation-kit</a>
+  - a lightweight, Laravel-inspired validation package for Vue 3.
+</p>
+
+<p>
   <a href="https://github.com/kolirt/vue-timestamp" target="_blank">@kolirt/vue-timestamp</a>
   - Vue 3 timestamp package.
 </p>
